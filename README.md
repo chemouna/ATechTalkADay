@@ -19,3 +19,4 @@
 [Rich Hickey on Datomic Ions, September 12, 2018](https://www.youtube.com/watch?v=thpzXjmYyGk)
 
 #### 18th
+[Alex Gaynor: Fast Python, Slow Python - PyCon 2014](https://www.youtube.com/watch?v=7eeEf_rAJds)
