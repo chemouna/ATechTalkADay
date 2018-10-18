@@ -14,3 +14,8 @@
 
 #### 16th
 [Raymond Hettinger Modern Python Dictionaries A confluence of a dozen great ideas PyCon 2017](https://www.youtube.com/watch?v=npw4s1QTmPg)
+
+#### 17th
+[Rich Hickey on Datomic Ions, September 12, 2018](https://www.youtube.com/watch?v=thpzXjmYyGk)
+
+#### 18th
