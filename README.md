@@ -23,3 +23,9 @@
 
 #### 19th
 [Keynote - Preventing, Finding, and Fixing Bugs On a Time Budget | Raymond Hettinger @ PyBay2018](https://www.youtube.com/watch?v=ARKbfWk4Xyw&t=930s)
+
+#### 20th
+[Union Find - Union and Find Operations](https://www.youtube.com/watch?v=0jNmHPfA_yE)
+[Union Find Path Compression](https://www.youtube.com/watch?v=VHRhJWacxis)
+[Algorithms: Union Find Data Structure - Dynamic Connectivity](https://www.youtube.com/watch?v=j3FsS4cbJLg)
+[Algorithms: Union Find Data Structure -Quick Find](https://www.youtube.com/watch?v=pnkqqb-WaRg&t=1s)
