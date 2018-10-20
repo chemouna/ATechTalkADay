@@ -20,3 +20,6 @@
 
 #### 18th
 [Alex Gaynor: Fast Python, Slow Python - PyCon 2014](https://www.youtube.com/watch?v=7eeEf_rAJds)
+
+#### 19th
+[Keynote - Preventing, Finding, and Fixing Bugs On a Time Budget | Raymond Hettinger @ PyBay2018](https://www.youtube.com/watch?v=ARKbfWk4Xyw&t=930s)
