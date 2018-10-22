@@ -28,4 +28,7 @@
 [Union Find - Union and Find Operations](https://www.youtube.com/watch?v=0jNmHPfA_yE)
 [Union Find Path Compression](https://www.youtube.com/watch?v=VHRhJWacxis)
 [Algorithms: Union Find Data Structure - Dynamic Connectivity](https://www.youtube.com/watch?v=j3FsS4cbJLg)
-[Algorithms: Union Find Data Structure -Quick Find](https://www.youtube.com/watch?v=pnkqqb-WaRg&t=1s)
+[Algorithms: Union Find Data Structure - Quick Find](https://www.youtube.com/watch?v=pnkqqb-WaRg&t=1s)
+
+## 22th
+[Theory and Practice in Algorithm and Data Structure Design](https://www.youtube.com/watch?v=2mhyHQaZ2dw)
