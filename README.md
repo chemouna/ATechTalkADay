@@ -32,3 +32,6 @@
 
 ## 22th
 [Theory and Practice in Algorithm and Data Structure Design](https://www.youtube.com/watch?v=2mhyHQaZ2dw)
+
+## 23rd
+[Finding the Median of n Numbers in O(n) Time](https://www.youtube.com/watch?v=PBu2QgU6Qfk&t=1362s)
