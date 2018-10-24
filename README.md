@@ -35,3 +35,7 @@
 
 ## 23rd
 [Finding the Median of n Numbers in O(n) Time](https://www.youtube.com/watch?v=PBu2QgU6Qfk&t=1362s)
+
+## 24th
+[Find the 'K'th Largest Element in 'N' Sorted Arrays](https://www.youtube.com/watch?v=Q3JUfHpffIg&t=554s)
+
