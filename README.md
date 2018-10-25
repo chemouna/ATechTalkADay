@@ -39,3 +39,7 @@
 ## 24th
 [Find the 'K'th Largest Element in 'N' Sorted Arrays](https://www.youtube.com/watch?v=Q3JUfHpffIg&t=554s)
 
+## 25th 
+[Deterministic Selection Algorithm Part 1](https://www.youtube.com/watch?v=L5-4cPW5HoU)
+[Deterministic Selection Algorithm Part 2](https://www.youtube.com/watch?v=6ntwpZmHN-g)
+[Deterministic Selection Algorithm Part 3](https://www.youtube.com/watch?v=hUuTcyQShYo&t=633s)
