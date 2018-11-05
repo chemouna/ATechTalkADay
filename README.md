@@ -43,3 +43,8 @@
 [Deterministic Selection Algorithm Part 1](https://www.youtube.com/watch?v=L5-4cPW5HoU)
 [Deterministic Selection Algorithm Part 2](https://www.youtube.com/watch?v=6ntwpZmHN-g)
 [Deterministic Selection Algorithm Part 3](https://www.youtube.com/watch?v=hUuTcyQShYo&t=633s)
+
+### November
+
+#### 05th
+[KotlinConf 2018 - A Multiplatform Delight by Jake Wharton and Alec Strong](https://www.youtube.com/watch?v=WkIry790PHI&index=56&list=PLqb0snlpJWbIb5PpRazGUn-Oi0GIln4S_&t=1146s)
