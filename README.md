@@ -48,3 +48,6 @@
 
 #### 05th
 [KotlinConf 2018 - A Multiplatform Delight by Jake Wharton and Alec Strong](https://www.youtube.com/watch?v=WkIry790PHI&index=56&list=PLqb0snlpJWbIb5PpRazGUn-Oi0GIln4S_&t=1146s)
+
+#### 06th
+[John Myles White on Fundamental Concepts in Programming Languages](https://www.youtube.com/watch?v=cO41uoi5cZs&t=1227s)
