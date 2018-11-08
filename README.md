@@ -51,3 +51,6 @@
 
 #### 06th
 [John Myles White on Fundamental Concepts in Programming Languages](https://www.youtube.com/watch?v=cO41uoi5cZs&t=1227s)
+
+#### 08th 
+[Getting the Most Out of Android Lint (Android Dev Summit '18)](https://www.youtube.com/watch?v=ffH-LD5uP4s)
